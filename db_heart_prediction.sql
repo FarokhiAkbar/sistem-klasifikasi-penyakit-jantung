@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `prediction_history` (
-  `id` int NOT NULL,
+  `id` INT AUTO_INCREMENT PRIMARY KEY,
   `user_id` int NOT NULL,
   `age` float NOT NULL,
   `trestbps` float NOT NULL,
