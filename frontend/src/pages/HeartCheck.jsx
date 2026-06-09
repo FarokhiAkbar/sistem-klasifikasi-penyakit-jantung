@@ -195,7 +195,7 @@ const HeartCheck = () => {
 
             <div className="bg-blue-50 text-blue-800 p-4 rounded-xl flex gap-3 items-start text-sm border border-blue-100">
               <FaInfoCircle className="mt-0.5 flex-shrink-0 text-blue-500" />
-              <p>Data yang Anda masukkan hanya digunakan sementara untuk kalkulasi prediksi AI dan akan tersimpan di akun Anda sebagai riwayat.</p>
+              <p>Harap diingat bahwa hasil klasifikasi ini murni prediksi AI. Untuk diagnosis yang akurat, perlu pemeriksaan lebih lanjut oleh dokter profesional.</p>
             </div>
 
             <div className="pt-4 border-t border-slate-100 flex justify-end">
